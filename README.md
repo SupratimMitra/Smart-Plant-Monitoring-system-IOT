@@ -1,2 +1,1 @@
-# Smart-Plant-Monitoring-system-IOT
-Which will gives us the current conditions based and soil moisture based data and by which we can give the plant water safely at any where .
+Our project deals about the plant monitoring mechanism which gives information about the temperature pressure, humidity. This can be done by using various sensors like temperature pressure and humidity sensing sensors. This will be enhancing the growth of plant. The two modes of operating system: a)When it detects if the plant need some water, it will be watering the plants. b)A manual mode where you can control the servos and relays manually.
